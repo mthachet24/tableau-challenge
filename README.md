@@ -15,6 +15,22 @@ Based on looking at the map for the start and end locations for the bike station
 
 
 
+<img src= "Images/Screen Shot 2021-12-09 at 12.23.06 PM.png">
+
+
+
+
+2. Gender Statistical Analysis from 2019-2020
+
+
+There were some interesting gender statistics regarding the citi bike data. For the average trip duration, females had a higher peak in both 2019 and 2020 than the males did. However, the male gender represented the most out of all genders in both 2019 and 2020. The gender that was labeled as "unknown" wasn't represented as much in 2019 than they were in 2020. 
+
+
+
+<img src= "Images/Screen Shot 2021-12-09 at 12.37.45 PM.png">
+
+
+
 
 
 
