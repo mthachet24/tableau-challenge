@@ -3,7 +3,9 @@
 
 Visualization Website: 
 
-https://public.tableau.com/app/profile/max.thachet/viz/citi_data_2019-2020/CitiBikeStoryAnalysisFrom2019-2020
+https://public.tableau.com/app/profile/max.thachet/viz/citi_data_2019-2020/CitiBikeStoryAnalysisFrom2019-2020?publish=yes
+
+
 
 Analysis: 
 
